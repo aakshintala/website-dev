@@ -5,8 +5,8 @@ file: "aakshintala_resume.pdf"
 draft: false
 ---
 
-<object data="../aakshintala_resume.pdf" type="application/pdf" width="800px" height="750px">
-    <embed src="../aakshintala_resume.pdf" type="application/pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../aakshintala_resume.pdf">Download PDF</a>.</p>
+<object data="http://aakshintala.github.io/aakshintala_resume.pdf" type="application/pdf" width="800px" height="750px">
+    <embed src="http://aakshintala.github.io/aakshintala_resume.pdf" type="application/pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://aakshintala.github.io/aakshintala_resume.pdf">Download PDF</a>.</p>
     </embed>
 </object>

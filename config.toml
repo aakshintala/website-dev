@@ -35,7 +35,7 @@ copyright = "&copy;{year} Amogh Akshintala"
 
       [[params.nav.link]]
         text = "Resume"
-        url = "#"
+        url = "/resume"
 
   # # Links List #2
   # [[params.links]]

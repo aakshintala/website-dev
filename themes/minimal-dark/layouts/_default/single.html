@@ -11,15 +11,10 @@
     <div>
 	<!-- Begin Content -->
 	<div class="intro">
-	<div class="name-and-tags">
-	<h1>{{ .Title }}</h1>
-	<hr>
-<!-- 	<h2>
-		{{ .Date.Format "Jan 2, 2006" }}
-		· {{ if lt 1 .WordCount }}{{ .WordCount }} words{{ else }}{{ .WordCount }} word{{ end }}
-		· {{ if eq 1 .ReadingTime }}{{ .ReadingTime }} minute read{{ else }}{{ .ReadingTime }} minutes read{{ end }}
-	</h2> -->
-
+		<div class="name-and-tags">
+		<h1>{{ .Title }}</h1>
+		<hr>
+		</div>
 	</div>
 	<!-- Links -->
     {{ partial "links" . }}
