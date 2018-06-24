@@ -1,0 +1,36 @@
+{{ $baseUrl := .Site.BaseURL }}
+<!DOCTYPE html>
+<html lang="{{ default .Site.LanguageCode "en-US" }}">
+
+<head>
+  {{ partial "head" . }}
+</head>
+
+<body>
+<div class="centered-one-column">
+    <div>
+	<!-- Links -->
+    {{ partial "links" . }}
+	<!-- Begin Content -->
+	<h1>{{ .Title }}</h1>
+	<div class="archive">
+	{{ range .Data.Pages.GroupByDate "2006-01"}}
+	<ul>
+	{{ range .Pages }}
+		<div class="post-item">
+		<a href="{{ .Permalink }}" class="post-link">
+		{{ .Params.short_desc }}
+		</a>
+		<div class="post-time">{{ .Date.Format "Jan 2, 2006" }}</div>
+		</div>
+	{{ end }}
+	</ul>
+	{{ end }}
+	</div>
+	<!-- Footer -->
+	{{ partial "footer" . }}
+	</div>
+</div>
+
+</body>
+</html>

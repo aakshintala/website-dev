@@ -1,0 +1,35 @@
+{{ $baseUrl := .Site.BaseURL }}
+<!DOCTYPE html>
+<html lang="{{ default .Site.LanguageCode "en-US" }}">
+
+<head>
+  {{ partial "head" . }}
+</head>
+
+<body>
+<div class="centered-one-column">
+    <div>
+	<!-- Begin Content -->
+	<div class="intro">
+	<div class="name-and-tags">
+	<h1>{{ .Title }}</h1>
+	<hr>
+<!-- 	<h2>
+		{{ .Date.Format "Jan 2, 2006" }}
+		· {{ if lt 1 .WordCount }}{{ .WordCount }} words{{ else }}{{ .WordCount }} word{{ end }}
+		· {{ if eq 1 .ReadingTime }}{{ .ReadingTime }} minute read{{ else }}{{ .ReadingTime }} minutes read{{ end }}
+	</h2> -->
+
+	</div>
+	<!-- Links -->
+    {{ partial "links" . }}
+	<br>
+	{{ .Content }}
+	<br>
+	<!-- Footer -->
+	{{ partial "footer" . }}
+	</div>
+</div>
+
+</body>
+</html>

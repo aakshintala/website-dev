@@ -1,0 +1,372 @@
+/*
+Template Name: Split
+Author: One Page Love
+Author URI: https://onepagelove.com
+Template URI: https://onepagelove.com/split
+Description: Minimal is a minimal theme that is derived from the Split theme.
+*/
+
+/* -- CSS Reset -- */
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,600");
+@import url("https://fonts.googleapis.com/css?family=Lora");
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+body {
+  line-height: 1;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+blockquote, q {
+  quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: "";
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  -moz-font-feature-settings: "liga" on;
+  margin: 0;
+}
+
+img.alignright {
+  float: right;
+}
+img.alignleft {
+  float: left;
+}
+img.aligncenter {
+  clear: both;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+body {
+  background-color: #FFFFFF;
+  border-style: none;
+}
+
+body,
+p,
+a,
+a:hover {
+  color: #000000;
+}
+
+a,
+a:hover {
+  text-decoration: none;
+  border: none;
+  border-style: none;
+  box-shadow: none;
+}
+
+/* -- Content -- */
+/* Edit below */
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+html {
+  background-color: #FFFFFF;
+}
+
+body {
+  background-color: #FFFFFF;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 33px;
+  letter-spacing: -0.2px;
+  color: #767676;
+  animation: fadein 2s;
+}
+body p {
+  color: #767676;
+}
+
+.centered-one-column {
+  display: flex;
+}
+@media (max-width: 800px) {
+  .centered-one-column {
+    height: auto;
+    flex-wrap: wrap;
+  }
+}
+
+.centered-one-column {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  width: 80%;
+  max-width: 800px;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  text-align: justify;
+  overflow: auto;
+  margin: auto;
+}
+@media (max-width: 800px) {
+  .centered-one-column {
+    width: 100%;
+    height: auto;
+  }
+}
+
+.intro {
+  font-weight: 600;
+  font-size: 25px;
+  overflow: hidden;
+  text-align: center;
+}
+
+.intro .name-and-tags {
+ /*padding-top: 75px;
+ padding-left: 450px;
+ text-align: center;*/
+}
+
+.intro .name-and-tags h1 {
+  font-weight: 400;
+  text-transform: uppercase;
+  font-size: 60px;
+  margin-bottom: 10px;
+  letter-spacing: 0.4px;
+  line-height: 0.9;
+  color: #4B9CD3;
+}
+.intro .tagline1 .tagline2 {
+  color: #CCCCCC;
+}
+
+.intro .display-pic{
+  width: 700px;
+  height: auto;
+  margin:auto;
+}
+
+.intro .display-pic img{
+  width: inherit;
+  height: inherit;
+}
+
+.bio {
+  padding: 20px 0 20px 0;
+  font-family: "Lora", serif;
+}
+@media (max-width: 1200px) {
+  .bio {
+    padding: 30px 0 10px 0;
+  }
+}
+@media (max-width: 800px) {
+  .bio {
+    padding: 20px 0 0 0;
+  }
+}
+.bio p {
+  color: #767676;
+  margin-bottom: 20px;
+  line-height: inherit;
+}
+.bio a {
+  color: #4B9CD3;
+  transition-duration: 0.5s;
+  /*border-bottom: 1px dotted #4B9CD3;*/
+}
+.bio a:hover {
+  color: #007FAE;
+  transition-duration: 0.1s;
+  border-bottom: 1px dotted #007FAE;
+}
+.bio em,
+.bio i {
+  font-style: italic;
+  line-height: inherit;
+}
+.bio strong,
+.bio b {
+  font-weight: bold;
+  line-height: inherit;
+}
+.bio small {
+  font-size: 80%;
+  line-height: inherit;
+}
+.bio h1, .bio .h1,
+.bio h2, .bio .h2,
+.bio h3, .bio .h3,
+.bio h4, .bio .h4,
+.bio h5, .bio .h5,
+.bio h6, .bio .h6 {
+  font-style: normal;
+  font-weight: normal;
+  color: inherit;
+}
+.bio h1 small, .bio .h1 small,
+.bio h2 small, .bio .h2 small,
+.bio h3 small, .bio .h3 small,
+.bio h4 small, .bio .h4 small,
+.bio h5 small, .bio .h5 small,
+.bio h6 small, .bio .h6 small {
+  line-height: 0;
+}
+.bio h1, .bio .h1 {
+  font-size: 1.5em;
+  line-height: inherit;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+.bio h2, .bio .h2 {
+  font-size: 1.25em;
+  line-height: inherit;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+.bio h3, .bio .h3 {
+  font-size: 1.1875em;
+  line-height: inherit;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+.bio h4, .bio .h4 {
+  font-size: 1.125em;
+  line-height: inherit;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+.bio h5, .bio .h5 {
+  font-size: 1.0625em;
+  line-height: inherit;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+.bio h6, .bio .h6 {
+  font-size: 1em;
+  line-height: inherit;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+.bio ul,
+.bio ol,
+.bio dl {
+  margin-bottom: 20px;
+  list-style-position: outside;
+  line-height: inherit;
+}
+.bio li {
+  font-size: inherit;
+}
+.bio ul {
+  margin-left: 2.25em;
+  list-style-type: disc;
+}
+.bio ol {
+  margin-left: 2.25em;
+  list-style-type: decimal;
+}
+.bio ul ul, .bio ol ul, .bio ul ol, .bio ol ol {
+  margin-left: 1.25em;
+  margin-bottom: 0;
+}
+.bio dl dt {
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+.bio dl dd {
+  margin-bottom: 10px;
+}
+
+.nav-list {
+  /*width: 30%;*/
+  /*display: inline-block;*/
+  /*margin-bottom: 10px;*/
+  vertical-align: top;
+}
+@media (max-width: 500px) {
+  .nav-list {
+    width: 90%;
+  }
+}
+
+.nav-list ul{
+  text-align: center;
+}
+
+.nav-list ul li {
+  display: inline-block;
+  padding: 10px;
+  font-size: 20px;
+  line-height: 16px;
+  margin-bottom: 12px;
+}
+
+.nav-list ul li a {
+  color: #767676;
+  transition-duration: 0.5s;
+}
+
+.nav-list ul li.active>a{
+  font-weight: bold;
+ }
+
+.nav-list ul li a:hover {
+  color: #007FAE;
+  transition-duration: 0.1s;
+}
+
+.minimal-copyright {
+  opacity: 0.4;
+}
+.minimal-copyright p {
+  font-size: 18px;
+  line-height: 20px;
+  color: #121212
+}
+.minimal-copyright p a {
+  color: #121212;
+}

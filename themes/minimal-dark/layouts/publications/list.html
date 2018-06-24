@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="{{ default .Site.LanguageCode "en-US" }}">
+
+<head>
+  {{ partial "head" . }}
+</head>
+
+<body>
+
+  <div class="centered-one-column">
+    <div>
+      <!-- Links -->
+      {{ partial "links" . }}
+		<div class="publications">
+		{{ range .Data.Pages.GroupByDate "2006"}}
+		<div style="display: inline-block;">
+			<h3>{{ .Key }}</h3>
+			{{ range .Pages }}
+				{{partial "pub.html" .}}
+			{{ end }}
+		</div>
+		<br>
+		<br>
+		{{ end }}
+		</div>
+		<br>
+      <!-- Footer -->
+      {{ partial "footer" . }}
+    </div>
+  </div>
+
+</body>
+</html>

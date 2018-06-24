@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="{{ default .Site.LanguageCode "en-US" }}">
+
+<head>
+  {{ partial "head" . }}
+</head>
+
+<body>
+
+  <div class="centered-one-column">
+    <div>
+      <!-- Intro -->
+      {{ partial "intro" . }}
+      <!-- Links -->
+      {{ partial "links" . }}
+      <!-- Bio -->
+      {{ partial "bio" . }}
+
+      <!-- Footer -->
+      {{ partial "footer" . }}
+    </div>
+  </div>
+
+</body>
+</html>
