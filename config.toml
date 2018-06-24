@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "aakshintala.github.io"
+baseURL = "https://aakshintala.github.io"
 languageCode = "en-US"
 title = "Amogh Akshintala"
 theme = "minimal-dark"
