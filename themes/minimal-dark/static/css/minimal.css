@@ -143,7 +143,7 @@ body p {
   padding-bottom: 50px;
   width: 80%;
   max-width: 800px;
-  min-height: 100vh;
+  /*min-height: 100vh;*/
   display: flex;
   align-items: center;
   text-align: justify;
@@ -152,7 +152,7 @@ body p {
 }
 @media (max-width: 800px) {
   .centered-one-column {
-    width: 100%;
+    width: 90%;
     height: auto;
   }
 }
@@ -162,6 +162,11 @@ body p {
   font-size: 25px;
   overflow: hidden;
   text-align: center;
+}
+@media (max-width: 800px) {
+  .intro {
+    width: 100%;
+  }
 }
 
 .intro .name-and-tags {
@@ -192,6 +197,21 @@ body p {
 .intro .display-pic img{
   width: inherit;
   height: inherit;
+}
+
+@media (max-width: 800px) {
+  .intro .display-pic {
+    width: 100%;
+  }
+  .intro .name-and-tags{
+    width: 100%;
+  }
+  .intro .name-and-tags h1{
+    font-size: 12vw;
+  }
+  .intro .name-and-tags .tagline1 .tagline2 {
+    font-size: 9vw;
+  }
 }
 
 .bio {
