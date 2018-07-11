@@ -7,30 +7,37 @@
 </head>
 
 <body>
-<div class="centered-one-column">
-    <div>
+	<div class="centered-one-column">
+	<div style="width: 100%">
+	<div class="intro">
+		<div class="name-and-tags">
+		<h1>{{ .Title }}</h1>
+		<hr>
+		</div>
+	</div>
 	<!-- Links -->
     {{ partial "links" . }}
 	<!-- Begin Content -->
-	<h1>{{ .Title }}</h1>
-	<div class="archive">
+	<div style="display: flex; justify-content: center;">
 	{{ range .Data.Pages.GroupByDate "2006-01"}}
-	<ul>
+	<!-- <ul> -->
 	{{ range .Pages }}
-		<div class="post-item">
-		<a href="{{ .Permalink }}" class="post-link">
+		<div >{{ .Date.Format "Jan 2, 2006" }}</div>
+		<div class="post-item" style="margin-left: 30px;">
+		<a href="{{ .Params.slug }}" class="post-link">
+		{{ .Params.title }}
 		{{ .Params.short_desc }}
 		</a>
-		<div class="post-time">{{ .Date.Format "Jan 2, 2006" }}</div>
 		</div>
 	{{ end }}
-	</ul>
+	<!-- </ul> -->
 	{{ end }}
 	</div>
+	<br>
 	<!-- Footer -->
 	{{ partial "footer" . }}
 	</div>
-</div>
+	</div>
 
 </body>
 </html>

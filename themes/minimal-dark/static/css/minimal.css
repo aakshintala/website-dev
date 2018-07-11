@@ -10,7 +10,7 @@ Description: Minimal is a minimal theme that is derived from the Split theme.
 @import url("https://fonts.googleapis.com/css?family=Montserrat:400,600");
 @import url("https://fonts.googleapis.com/css?family=Lora");
 html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+h1, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,
 small, strike, strong, sub, sup, tt, var,
@@ -142,7 +142,7 @@ body p {
   padding-top: 50px;
   padding-bottom: 50px;
   width: 80%;
-  max-width: 800px;
+  max-width: 1000px;
   /*min-height: 100vh;*/
   display: flex;
   align-items: center;
@@ -150,7 +150,7 @@ body p {
   overflow: auto;
   margin: auto;
 }
-@media (max-width: 800px) {
+@media (max-width: 1000px) {
   .centered-one-column {
     width: 90%;
     height: auto;
@@ -167,12 +167,6 @@ body p {
   .intro {
     width: 100%;
   }
-}
-
-.intro .name-and-tags {
- /*padding-top: 75px;
- padding-left: 450px;
- text-align: center;*/
 }
 
 .intro .name-and-tags h1 {
@@ -219,7 +213,7 @@ body p {
   font-family: "Lora", serif;
 }
 @media (max-width: 1200px) {
-  .bio {
+  .bio{
     padding: 30px 0 10px 0;
   }
 }
@@ -228,116 +222,117 @@ body p {
     padding: 20px 0 0 0;
   }
 }
-.bio p {
+p {
   color: #767676;
   margin-bottom: 20px;
   line-height: inherit;
 }
-.bio a {
+a {
   color: #4B9CD3;
   transition-duration: 0.5s;
   /*border-bottom: 1px dotted #4B9CD3;*/
 }
-.bio a:hover {
+a:hover {
   color: #007FAE;
   transition-duration: 0.1s;
   border-bottom: 1px dotted #007FAE;
 }
-.bio em,
-.bio i {
+em,
+i {
   font-style: italic;
   line-height: inherit;
 }
-.bio strong,
-.bio b {
+strong,
+b {
   font-weight: bold;
   line-height: inherit;
 }
-.bio small {
+small {
   font-size: 80%;
   line-height: inherit;
 }
-.bio h1, .bio .h1,
-.bio h2, .bio .h2,
-.bio h3, .bio .h3,
-.bio h4, .bio .h4,
-.bio h5, .bio .h5,
-.bio h6, .bio .h6 {
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4,
+h5, .h5,
+h6, .h6 {
   font-style: normal;
   font-weight: normal;
   color: inherit;
 }
-.bio h1 small, .bio .h1 small,
-.bio h2 small, .bio .h2 small,
-.bio h3 small, .bio .h3 small,
-.bio h4 small, .bio .h4 small,
-.bio h5 small, .bio .h5 small,
-.bio h6 small, .bio .h6 small {
+h1 small, .h1 small,
+h2 small, .h2 small,
+h3 small, .h3 small,
+h4 small, .h4 small,
+h5 small, .h5 small,
+h6 small, .h6 small {
   line-height: 0;
 }
-.bio h1, .bio .h1 {
+h1, .h1 {
   font-size: 1.5em;
   line-height: inherit;
   margin-top: 0;
   margin-bottom: 20px;
 }
-.bio h2, .bio .h2 {
+h2, .h2 {
   font-size: 1.25em;
+  color: #007FAE;
   line-height: inherit;
   margin-top: 0;
   margin-bottom: 20px;
 }
-.bio h3, .bio .h3 {
+h3, .h3 {
   font-size: 1.1875em;
   line-height: inherit;
   margin-top: 0;
   margin-bottom: 20px;
 }
-.bio h4, .bio .h4 {
+h4, .h4 {
   font-size: 1.125em;
   line-height: inherit;
   margin-top: 0;
   margin-bottom: 20px;
 }
-.bio h5, .bio .h5 {
+h5, .h5 {
   font-size: 1.0625em;
   line-height: inherit;
   margin-top: 0;
   margin-bottom: 20px;
 }
-.bio h6, .bio .h6 {
+h6, .h6 {
   font-size: 1em;
   line-height: inherit;
   margin-top: 0;
   margin-bottom: 20px;
 }
-.bio ul,
-.bio ol,
-.bio dl {
+ul,
+ol,
+dl {
   margin-bottom: 20px;
   list-style-position: outside;
   line-height: inherit;
 }
-.bio li {
+li {
   font-size: inherit;
 }
-.bio ul {
+ul {
   margin-left: 2.25em;
   list-style-type: disc;
 }
-.bio ol {
+ol {
   margin-left: 2.25em;
   list-style-type: decimal;
 }
-.bio ul ul, .bio ol ul, .bio ul ol, .bio ol ol {
+ul ul, ol ul, ul ol, ol ol {
   margin-left: 1.25em;
   margin-bottom: 0;
 }
-.bio dl dt {
+dl dt {
   margin-bottom: 10px;
   font-weight: bold;
 }
-.bio dl dd {
+dl dd {
   margin-bottom: 10px;
 }
 
