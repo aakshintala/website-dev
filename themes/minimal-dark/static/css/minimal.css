@@ -398,6 +398,7 @@ dl dd {
 }
 
 .pub {
+  font-size: 0.75em;
   float: left;
   width: 80%;
   margin-left: auto;

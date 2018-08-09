@@ -21,7 +21,7 @@
 		<div class="publications">
 		{{ range .Data.Pages.GroupByDate "2006"}}
 			<div style="display: inline-block;">
-			<h3 style="font-size: 2em">{{ .Key }}</h3>
+			<h2>{{ .Key }}</h3>
 				<div>
 				{{ range .Pages }}
 					{{partial "pub.html" .}}
