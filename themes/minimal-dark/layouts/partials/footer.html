@@ -1,7 +1,0 @@
-<div class="minimal-copyright">
-  <p style="text-align: center;">
-  {{$thisyear := now.Year}}
-	{{ with .Site.Copyright }}
-	{{ replace . "{year}" $thisyear | safeHTML}}
-	{{ end }}
-</div>
