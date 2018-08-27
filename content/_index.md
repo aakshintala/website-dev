@@ -9,9 +9,12 @@ draft: false
 
 ---
 I am a 5th year Ph.D. student at the [Department of Computer Science, UNC Chapel Hill](http://cs.unc.edu/). I'm advised by <a href="https://cs.unc.edu/~porter">Donald Porter</a> who leads the <a href="http://oscarlab.github.io/">OSCAR lab</a>.
-I have also had the privilege of being advised by (and still collaborate with) <a href="http://www3.cs.stonybrook.edu/~rob/">Rob Johnson</a>, and <a href="http://compas.cs.stonybrook.edu/~mferdman/">Michael Ferdman </a>while I was at Stony Brook, and with <a href="http://www.cs.utexas.edu/~rossbach/">Chris Rossbach</a> at U.T. Austin, and VMware Research Group.
+While at Stony Brook, I had the privilege of also being advised by
+<a href="http://www3.cs.stonybrook.edu/~rob/">Rob Johnson</a>,
+and <a href="http://compas.cs.stonybrook.edu/~mferdman/">Michael Ferdman</a> both of whom I still occasionally collaborate with.
+More recently, I've been collaboraing with <a href="http://www.cs.utexas.edu/~rossbach/">Chris Rossbach</a> at U.T. Austin, and VMware Research Group, on all things accelerators.
 
-I am broadly interested in the fields of System Software (OS, File Systems, Compilers), and Computer Architecture. I spent a considerable part of the first 2 years of my Ph.D. benchmarking and thinking about the <a href="http://www.betrfs.org">BetrFS project</a>. At the moment I'm:
+I am broadly interested in System Software (OS, File Systems, Compilers), and Computer Architecture. I spent a considerable part of the first 2 years of my Ph.D. benchmarking and thinking about the <a href="http://www.betrfs.org">BetrFS project</a>. At the moment I'm:
 
 * studying the [distribution of x86 instructions](http://x86instructionpop.com/) in all the C/C++ binaries from the Ubuntu repositories, in the hope of drawing interesting insights to help design a subset ISA,
 * trying to get [first-class citizenship for programmable accelerators](https://drive.google.com/file/d/1XNnoErAb5h9FaRoKvfUgypjYvLwja5J9/view?usp=sharing),
