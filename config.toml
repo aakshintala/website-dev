@@ -19,6 +19,7 @@ copyright = "&copy;{year} Amogh Akshintala"
   description = "Amogh Akshintala's web presence..."
   shareImage = "images/social.jpg"
   twitterHandle = "aakshintala"
+  numNewsItems = 5
 
   # Favicon
   favicon = "images/favicon.ico"

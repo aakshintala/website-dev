@@ -13,9 +13,16 @@
       {{ partial "intro" . }}
       <!-- Links -->
       {{ partial "links" . }}
+      <!-- News -->
+      <hr>
+      <div class="news">
+        <div style="text-align: center; font-weight: bold;"> RECENT NEWS </div>
+        {{ partial "news" . }}
+        <div class="news-icon"><i class="fa fa-history"></i></div>
+        <div class="text"><a href="/news/">Older news&hellip;</a></div>
+      </div>
       <!-- Bio -->
       {{ partial "bio" . }}
-
       <!-- Footer -->
       {{ partial "footer" . }}
     </div>

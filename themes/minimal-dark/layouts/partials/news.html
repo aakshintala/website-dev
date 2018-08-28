@@ -1,0 +1,8 @@
+{{ $baseUrl := .Site.BaseURL }}
+	<div style="text-align: left; display: grid;">
+	{{ range first .Site.Params.numNewsItems ((where .Site.Pages "Type" "news").GroupByDate "2006-01-28")}}
+		{{ range .Pages}}
+			{{ partial "news-item" . }}
+		{{ end }}
+	{{ end }}
+</div>

@@ -1,0 +1,6 @@
+{{ if (isset .Params "short_desc") | and (not (eq .Params.short_desc "")) }}
+<div style="display: block;">
+	<div style="font-weight: lighter; font-size:small; float: left; width: 10%;">{{ .Date.Format "Jan 2, 2006" }}</div>
+	<div style="margin-left: 12%; font-size: 0.8em;"> {{ .Params.short_desc | markdownify }} </div>
+</div>
+{{ end }}

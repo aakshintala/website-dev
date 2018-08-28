@@ -1,0 +1,39 @@
+
+{{ $baseUrl := .Site.BaseURL }}
+<!DOCTYPE html>
+<html lang="{{ default .Site.LanguageCode "en-US" }}">
+
+<head>
+  {{ partial "head" . }}
+</head>
+
+<body>
+<div class="centered-one-column">
+	<div style="width: 100%">
+		<div class="intro">
+			<div class="name-and-tags">
+			<h1>{{ .Title }}</h1>
+			<hr>
+			</div>
+		</div>
+		<!-- Links -->
+		{{ partial "links" . }}
+		<div class="news">
+			<div style="text-align: left; display: grid;">
+			{{ range .Data.Pages.GroupByDate "2006"}}
+				<h2>{{ .Key }}</h2>
+					{{ range .Pages }}
+						{{ partial "news-item.html" . }}
+					{{ end }}
+			<br>
+			{{ end }}
+			</div>
+		</div>
+			<br>
+	      <!-- Footer -->
+	      {{ partial "footer" . }}
+    </div>
+</div>
+
+</body>
+</html>
