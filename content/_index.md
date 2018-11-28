@@ -8,11 +8,12 @@ draft: false
 ---
 
 ---
-I am a 5th year Ph.D. student at the [Department of Computer Science, UNC Chapel Hill](http://cs.unc.edu/). I'm advised by <a href="https://cs.unc.edu/~porter">Donald Porter</a> who leads the <a href="http://oscarlab.github.io/">OSCAR lab</a>.
+I am a 5th year Ph.D. student at the [Department of Computer Science, UNC Chapel Hill](http://cs.unc.edu/).
+I'm advised by <a href="https://cs.unc.edu/~porter">Donald Porter</a> who leads the <a href="http://oscarlab.github.io/">OSCAR lab</a>.
 While at Stony Brook, I had the privilege of also being advised by
 <a href="http://www3.cs.stonybrook.edu/~rob/">Rob Johnson</a>,
 and <a href="http://compas.cs.stonybrook.edu/~mferdman/">Michael Ferdman</a> both of whom I still occasionally collaborate with.
-More recently, I've been collaboraing with <a href="http://www.cs.utexas.edu/~rossbach/">Chris Rossbach</a> at U.T. Austin, and VMware Research Group, on all things accelerators.
+More recently, I've been collaborating with <a href="http://www.cs.utexas.edu/~rossbach/">Chris Rossbach</a> at U.T. Austin, and VMware Research Group, on all things accelerators.
 
 I am broadly interested in System Software (OS, File Systems, Compilers), and Computer Architecture. I spent a considerable part of the first 2 years of my Ph.D. benchmarking and thinking about the <a href="http://www.betrfs.org">BetrFS project</a>. At the moment I'm:
 
