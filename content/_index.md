@@ -10,7 +10,7 @@ draft: false
 ---
 I am a 6th year Ph.D. student at the [Department of Computer Science, UNC Chapel Hill](http://cs.unc.edu/).
 I'm extremely fortunate to be advised by a number of amazing people:
-[Don Porter](https://cs.unc.edu/~porter) (who leads the [OSCAR lab](http://oscarlab.github.io) at UNC), [Chris Rossbach](http://www.cs.utexas.edu/~rossbach/) (at UT Austin and [VMware Research Group](https://research.vmware.com/)), [Rob Johnson](https://research.vmware.com/researchers/rob-johnson), and [Michael Ferdman](http://compas.cs.stonybrook.edu/~mferdman/).
+[Don Porter](https://cs.unc.edu/~porter) (who leads the [OSCAR lab](http://oscarlab.github.io) at UNC), [Chris Rossbach](http://www.cs.utexas.edu/~rossbach/) (at UT Austin and [VMware Research Group](https://research.vmware.com/)), and [Michael Ferdman](http://compas.cs.stonybrook.edu/~mferdman/).
 
 My research interests lie at the intersection of System Software (OS, File Systems, Compilers) and Computer Architecture (ISAs, accelerator interfaces, etc.).
 
