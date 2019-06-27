@@ -23,6 +23,8 @@ At the moment I'm:
 
 I'm proud to have spent a considerable part of the first 2 years of my Ph.D. as the benchmark czar for the [BetrFS project](http://www.betrfs.org).
 
+I'm involved in an effort to document and share the often-forgotten human-side of CS research: [CSRTales](https://medium.com/csr-tales).
+
 I followed my advisor to UNC when he moved to Chapel Hill in Fall 2016, from Stony Brook University where I spent 4 amazing years, both as an M.S., and a Ph.D. student. Before moving to the USA for graduate school, I lived in Bangalore, India for 9 years. Before that, I spent about 9 years in Singapore and Malaysia as a kid. I was born and lived in India for the first 5 years.
 
 I've got a bad case of the travel bug --- I'm on a plane almost every month. I enjoy some amount of outdoor activity, especially in calm, less-trafficked places. I used to be an avid gamer, and fantasy/science-fiction reader, although I've done very little of either in the recent past.
