@@ -6,6 +6,6 @@ authors: ["Henrique Fingler", "Amogh Akshintala", "Christopher J. Rossbach"]
 rest_of_bib: "In Proceedings of the 10th ACM SIGOPS Asia-Pacific Workshop on Systems (APSys 2019), Hangzhou, China, August 2019"
 date: 2019-06-14T13:37:47-05:00
 conf_link: "https://icsr.zju.edu.cn/apsys2019/"
-file: ""
+file: "apsys19-usetl.pdf"
 auth_link: ""
 ---
