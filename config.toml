@@ -40,8 +40,8 @@ copyright = "&copy;{year} Amogh Akshintala"
         url = "/resume"
 
       [[params.nav.link]]
-        text = "COMP 590 - Syllabus"
-        url = "https://docs.google.com/document/d/11wZ1ZEKcYrJcMpQEP-bs-t7OHIe-Mao_Q8788hYf4QE/edit?usp=sharing"
+        text = "COMP 590-154"
+        url = "/comp590"
 
   [permalinks]
     blog = "/blog/:slug"
