@@ -12,6 +12,11 @@ googleAnalytics = "UA-121294168-1"
 # Copyright
 copyright = "&copy;{year} Amogh Akshintala"
 
+
+[markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
 
   # Metadata for search engines and social sharing

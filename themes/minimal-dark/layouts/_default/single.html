@@ -19,6 +19,9 @@
 	<!-- Links -->
     {{ partial "links" . }}
 	<br>
+	{{if .Params.toc}}
+		{{.TableOfContents}}
+	{{end}}
 	{{ .Content }}
 	<br>
 	<!-- Footer -->
