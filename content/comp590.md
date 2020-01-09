@@ -59,10 +59,10 @@ The course will be taught in an interactive lecture style. Although there are sl
 
 Students are expected to complete several programming assignments.
 
-## Lecture Recording
+<!-- ## Lecture Recording
 
 Lectures will be recorded and be made available to the students in the class. These recordings are intended to help students review the material after attending lectures, and are not a substitute for attending lectures in person.
-This is a __best-effort__ service and should not replace lecture attendance. If lecture recording substantially harms attendance, it will be discontinued.
+This is a __best-effort__ service and should not replace lecture attendance. If lecture recording substantially harms attendance, it will be discontinued. -->
 
 ## Key Dates
 
