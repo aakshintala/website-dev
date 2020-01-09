@@ -105,7 +105,7 @@ Participation scores will be determined by the instructor based on interactions 
   </tr>
   <tr>
     <td class="tg-buh4">Jan 9</td>
-    <td class="tg-buh4">Intro &amp; Administrativia</td>
+    <td class="tg-buh4">Intro &amp; Administrativia <a href="../slides/L01-Intro.pptx">PPT</a> </td>
   </tr>
   <tr>
     <td class="tg-0lax">Jan 14</td>
