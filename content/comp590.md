@@ -109,7 +109,7 @@ Participation scores will be determined by the instructor based on interactions 
   </tr>
   <tr>
     <td class="tg-0lax">Jan 14</td>
-    <td class="tg-0lax">Introduction, Early Machines</td>
+    <td class="tg-0lax">Review</td>
   </tr>
   <tr>
     <td class="tg-buh4">Jan 16</td>
