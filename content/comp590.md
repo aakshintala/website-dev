@@ -90,6 +90,8 @@ Grading will be on a point system. Obtaining a total of 100 points guarantees th
 Participation scores will be determined by the instructor based on interactions in the class and during office hours, and on the mailing list. (Merely attending class or office hours doesn’t satisfy participation). Class attendance will not be recorded.
 
 ## Course Schedule
+These lectures have been developed in parts by Professors Asanovic, Arvind, Austin, Brehob, Emer, Falsafi, Ferdman, Hill, Hoe, Honarmand, Kim, Kubiatowicz, Loh, Lipasti, Martin, Milder, Patterson, Roth, Sanchez, Shen, Smith, Sohi, Torrellas, Tyson, Vijaykumar, and Wenisch of Carnegie Mellon University, Georgia Institute of Technology, Massachusetts Institute of Technology, Purdue University, Stony Brook University, University of California at Berkeley, University of Michigan, University of Illinois, University of Pennsylvania, and University of Wisconsin.
+
 <style type="text/css">
 .tg  {border-spacing:0;border-color:#ccc; width: 100%}
 .tg td{padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
