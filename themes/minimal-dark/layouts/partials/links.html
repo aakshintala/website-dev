@@ -2,11 +2,11 @@
 <div class="nav-list">
   <ul>
     <li {{ if .IsHome }}class="active"{{ end }}><a href="{{ $baseURL }}/">Home</a></li>
-    {{ $url := .URL }}
+    {{ $url := .Permalink }}
     {{ range $key, $list := .Site.Params.nav }}
       {{ if $list.link }}
         {{ range $list.link }}
-    <li{{ if eq $url .URL }}class="active"{{ end }}><a href="{{ .url }}">{{ .text }}</a></li>
+    <li{{ if eq $url .url }}class="active"{{ end }}><a href="{{ .url }}">{{ .text }}</a></li>
         {{ end }}
       {{ end }}
     {{ end }}

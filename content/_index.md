@@ -8,24 +8,27 @@ draft: false
 ---
 
 ---
-I am a 6th year Ph.D. student at the [Department of Computer Science, UNC Chapel Hill](http://cs.unc.edu/).
-I'm extremely fortunate to be advised by a number of amazing people:
-[Don Porter](https://cs.unc.edu/~porter) (who leads the [OSCAR lab](http://oscarlab.github.io) at UNC), [Chris Rossbach](http://www.cs.utexas.edu/~rossbach/) (at UT Austin and [VMware Research Group](https://research.vmware.com/)), and [Michael Ferdman](http://compas.cs.stonybrook.edu/~mferdman/).
+__I'm looking for industrial positions (research and non-research), starting October 2020.__
 
-My research interests lie at the intersection of System Software (OS, File Systems, Compilers) and Computer Architecture (ISAs, accelerator interfaces, etc.).
+I am a final year Ph.D. student at the [Department of Computer Science, UNC Chapel Hill](http://cs.unc.edu/). I'm extremely fortunate to be advised by a number of amazing people:
+[Don Porter](https://cs.unc.edu/~porter) (who leads the [OSCAR lab](http://oscarlab.github.io) at UNC), [Chris Rossbach](http://www.cs.utexas.edu/~rossbach/) (at UT Austin and [VMware Research Group](https://research.vmware.com/)), and [Michael Ferdman](http://compas.cs.stonybrook.edu/~mferdman/) (at Stony Brook University).
 
-At the moment I'm:
+My research interests lie at the intersection of System Software (OS, File Systems, Compilers) and Computer Architecture (ISAs, accelerator interfaces, etc.). My dissertation is on virtualization of GPUs and other API-controlled accelerators.
 
-* studying the [distribution of x86 instructions](http://x86instructionpop.com/) in all the C/C++ binaries from the Ubuntu repositories, in the hope of drawing interesting insights to help design a subset ISA,
-* trying to get [first-class citizenship for programmable accelerators](https://drive.google.com/file/d/1XNnoErAb5h9FaRoKvfUgypjYvLwja5J9/view?usp=sharing),
-* thinking about general solutions to the problem of [virtualizing specialized accelerators](https://aakshintala.com/papers/ava-hotos19.pdf),
-* and in general [having fun with heterogeneous compute](https://github.com/aakshintala/darknet).
+During the course of my PhD, I
+* spent the first 2 years of my Ph.D. as the benchmark czar (performance engineering) for the [BetrFS project](http://www.betrfs.org).
+* studied the [distribution of x86 instructions](http://x86instructionpop.com/) in all the C/C++ binaries from the Ubuntu repositories, in the hope of drawing interesting insights to help design a subset ISA,
+* looked at the problem of building [first-class abstractions for programmable accelerators](https://drive.google.com/file/d/1XNnoErAb5h9FaRoKvfUgypjYvLwja5J9/view?usp=sharing),
+* co-designed an automate-able low-overhead virtualization scheme for [specialized accelerators](https://aakshintala.com/papers/ava-hotos19.pdf),
+* and in general [had fun with heterogeneous compute](https://github.com/aakshintala/darknet).
 
-I'm proud to have spent a considerable part of the first 2 years of my Ph.D. as the benchmark czar for the [BetrFS project](http://www.betrfs.org).
+I'm involved with [CSRTales](https://medium.com/csr-tales), an effort spear-headed by [Vijay Chidambaram](https://www.cs.utexas.edu/~vijay/) to document and share the often-forgotten human-side of CS research.
 
-I'm involved in an effort to document and share the often-forgotten human-side of CS research: [CSRTales](https://medium.com/csr-tales).
+---
 
-I followed my advisor to UNC when he moved to Chapel Hill in Fall 2016, from Stony Brook University where I spent 4 amazing years, both as an M.S., and a Ph.D. student. Before moving to the USA for graduate school, I lived in Bangalore, India for 9 years. Before that, I spent about 9 years in Singapore and Malaysia as a kid. I was born and lived in India for the first 5 years.
+## About Me
+
+I've spent the past few years splitting my time between Chapel Hill, NC; Austin, TX; and Palo Alto, CA. I followed my advisor to UNC when he moved to Chapel Hill in Fall 2016, from Stony Brook University where I spent 4 amazing years, both as an M.S., and a Ph.D. student. Before moving to the USA for graduate school, I lived in Bangalore, India for 9 years, where I attended a smattering of high schools, and earned a Bachelor of Engineering from BNMIT (VTU). Before that, I spent about 9 years in Singapore and Malaysia as a kid. I was born in India, and lived in Bangalore for the first 5 years of my life.
 
 I've got a bad case of the travel bug --- I'm on a plane almost every month. I enjoy some amount of outdoor activity, especially in calm, less-trafficked places. I used to be an avid gamer, and fantasy/science-fiction reader, although I've done very little of either in the recent past.
 
