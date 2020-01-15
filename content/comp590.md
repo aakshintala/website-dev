@@ -66,18 +66,19 @@ This is a __best-effort__ service and should not replace lecture attendance. If
 
 ## Key Dates
 
-*   Assignment 1 due: __TBD__
-*   Assignment 2 due: __TBD__
-*   Assignment 3 due: __TBD__
-*   Assignment 4 due: __TBD__
-*   Final exam: __4th May 2020 12:00 P.M.__
+*   Assignment 1 due: __30th Jan 2020 (before class)__
+*   Project Proposal due: __30th Jan 2020 (before class)__
+*   Assignment 2 due: __27th Feb 2020 (before class)__
+*   Assignment 3 due: __26th Mar 2020 (before class)__
+*   Assignment 4 due: __23th Apr 2020 (before class)__
 *   Project due: __4th May 2020 (before the exam)__
+*   Final exam: __4th May 2020 12:00 P.M.__
 
 ## Grading Criteria
 
 Grading will be on a point system. Obtaining a total of 100 points guarantees that you will receive an ‘A’ grade in the course. All scores below 100 points will be graded on a curve.
 
-*   Assignment 1 – 15 (Determining cache size and timing)
+*   [Assignment 1](../assignment1) – 15 (Determining cache size and timing)
 *   Assignment 2 – 15 (Profiling and tuning using perf and hardware counters)
 *   Assignment 3 – 15 (Tuning a GPU program)
 *   Assignment 4 – 15 (TBD)
@@ -88,6 +89,9 @@ Grading will be on a point system. Obtaining a total of 100 points guarantees th
 ## Attendance and Participation
 
 Participation scores will be determined by the instructor based on interactions in the class and during office hours, and on the mailing list. (Merely attending class or office hours doesn’t satisfy participation). Class attendance will not be recorded.
+
+All course announcements and discussion will be on Piazza:
+[https://piazza.com/unc/spring2020/comp590154](https://piazza.com/unc/spring2020/comp590154)
 
 ## Course Schedule
 These lectures have been developed in parts by Professors Asanovic, Arvind, Austin, Brehob, Emer, Falsafi, Ferdman, Hill, Hoe, Honarmand, Kim, Kubiatowicz, Loh, Lipasti, Martin, Milder, Patterson, Roth, Sanchez, Shen, Smith, Sohi, Torrellas, Tyson, Vijaykumar, and Wenisch of Carnegie Mellon University, Georgia Institute of Technology, Massachusetts Institute of Technology, Purdue University, Stony Brook University, University of California at Berkeley, University of Michigan, University of Illinois, University of Pennsylvania, and University of Wisconsin.
@@ -104,138 +108,172 @@ These lectures have been developed in parts by Professors Asanovic, Arvind, Aust
   <tr>
     <th class="tg-1wig">Date</th>
     <th class="tg-1wig">Topic</th>
+    <th class="tg-1wig">Comments</th>
   </tr>
   <tr>
     <td class="tg-buh4">Jan 9</td>
     <td class="tg-buh4">Intro &amp; Administrativia <a href="../slides/L01-Intro.pptx">PPT</a> <a href="../slides/L01-Intro.pdf">PDF</a> </td>
+    <td class="tg-buh4"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Jan 14</td>
     <td class="tg-0lax">Review <a href="../slides/L2-Review.pptx">PPT</a> <a href="../slides/L2-Review.pdf">PDF</a></td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-buh4">Jan 16</td>
-    <td class="tg-buh4">Simple Machine Implementations, Microcoding</td>
+    <td class="tg-buh4">Pipelining</td>
+    <td class="tg-buh4"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Jan 21</td>
     <td class="tg-0lax">Pipelining</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-buh4">Jan 23</td>
     <td class="tg-buh4">Pipelining</td>
+    <td class="tg-buh4"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Jan 28</td>
     <td class="tg-0lax">Memory Hierarchy</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-buh4">Jan 30</td>
     <td class="tg-buh4">Memory Hierarchy</td>
+    <td class="tg-buh4"><a href="../assignment1/">Assignment 1</a> Due <br> Project Proposals Due</td>
   </tr>
   <tr>
     <td class="tg-0lax">Feb 4</td>
     <td class="tg-0lax">Memory Hierarchy</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-buh4">Feb 6</td>
     <td class="tg-buh4">Address Translation and Protection</td>
+    <td class="tg-buh4"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Feb 11</td>
     <td class="tg-0lax">Spring Break - Holiday - No class</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-buh4">Feb 13</td>
     <td class="tg-buh4">Spring Break - Holiday - No class</td>
+    <td class="tg-buh4"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Feb 18</td>
     <td class="tg-0lax">Virtual Memory</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-buh4">Feb 20</td>
-    <td class="tg-buh4">Dr. Martin Luther King Jr. Day - Holiday - No class</td>
+    <td class="tg-buh4">Super-scalar Processors</td>
+    <td class="tg-buh4"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Feb 25</td>
     <td class="tg-0lax">Complex pipelines, out-of-order issue, register renaming</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-buh4">Feb 27</td>
     <td class="tg-buh4">Out-of-order execution</td>
+    <td class="tg-buh4">Assignment 2 Due</td>
   </tr>
   <tr>
     <td class="tg-0lax">Mar 3</td>
     <td class="tg-0lax">Branch Prediction and Advanced Out-of-Order Superscalars</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-buh4">Mar 5</td>
     <td class="tg-buh4">Advanced Superscalars and VLIW</td>
+    <td class="tg-buh4"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Mar 10</td>
     <td class="tg-0lax">Multithreading</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-buh4">Mar 12</td>
     <td class="tg-buh4">Vectors</td>
+    <td class="tg-buh4"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Mar 17</td>
     <td class="tg-0lax">Vectors</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-buh4">Mar 19</td>
     <td class="tg-buh4">GPUs</td>
+    <td class="tg-buh4"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Mar 24</td>
     <td class="tg-0lax">Cache Coherence</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-buh4">Mar 26</td>
     <td class="tg-buh4">Synchronization and Memory Consistency Models</td>
+    <td class="tg-buh4">Assignment 3 Due</td>
   </tr>
   <tr>
     <td class="tg-0lax">Mar 31</td>
     <td class="tg-0lax">Synchronization Primitives</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-buh4">Apr 2</td>
     <td class="tg-buh4">I/O and Warehouse-Scale Computing</td>
+    <td class="tg-buh4"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Apr 7</td>
     <td class="tg-0lax">Virtual Machines</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-buh4">Apr 9</td>
     <td class="tg-buh4">Virtual Machines</td>
+    <td class="tg-buh4"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Apr 14</td>
     <td class="tg-0lax">Domain-Specific Architectures</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-buh4">Apr 16</td>
     <td class="tg-buh4">Domain-Specific Architectures</td>
+    <td class="tg-buh4"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Apr 21</td>
     <td class="tg-0lax">Domain-Specific Architectures</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-buh4">Apr 23</td>
     <td class="tg-buh4">Last Day of classes (Course Review + Wrap)</td>
+    <td class="tg-buh4">Assignment 4 Due</td>
   </tr>
   <tr>
     <td class="tg-0lax">May 4</td>
-    <td class="tg-0lax">Final Exam + Project submission (before exam)</td>
+    <td class="tg-0lax">Final Exam 12:00 pm</td>
+    <td class="tg-0lax">Projects Due (before exam)</td>
   </tr>
   <tr>
     <td class="tg-buh4">May 10</td>
     <td class="tg-buh4">Commencement</td>
+    <td class="tg-buh4"></td>
   </tr>
 </table>
 
