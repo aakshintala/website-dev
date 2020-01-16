@@ -66,7 +66,7 @@ This is a __best-effort__ service and should not replace lecture attendance. If
 
 ## Key Dates
 
-*   Assignment 1 due: __30th Jan 2020 (before class)__
+*   Assignment 1 due: __4th Feb 2020 (before class)__
 *   Project Proposal due: __30th Jan 2020 (before class)__
 *   Assignment 2 due: __27th Feb 2020 (before class)__
 *   Assignment 3 due: __26th Mar 2020 (before class)__
@@ -78,7 +78,7 @@ This is a __best-effort__ service and should not replace lecture attendance. If
 
 Grading will be on a point system. Obtaining a total of 100 points guarantees that you will receive an ‘A’ grade in the course. All scores below 100 points will be graded on a curve.
 
-*   [Assignment 1](../assignment1) – 15 (Determining cache size and timing)
+*   Assignment 1 – 15 (Determining cache size and timing)
 *   Assignment 2 – 15 (Profiling and tuning using perf and hardware counters)
 *   Assignment 3 – 15 (Tuning a GPU program)
 *   Assignment 4 – 15 (TBD)
@@ -122,37 +122,37 @@ These lectures have been developed in parts by Professors Asanovic, Arvind, Aust
   </tr>
   <tr>
     <td class="tg-buh4">Jan 16</td>
-    <td class="tg-buh4">Pipelining</td>
+    <td class="tg-buh4">Simple Machine Implementations & Microcoding <a href="../slides/L03-Microcoding.pptx">PPT</a> </td>
     <td class="tg-buh4"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Jan 21</td>
-    <td class="tg-0lax">Pipelining</td>
+    <td class="tg-0lax">Memory Hierarchy</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-buh4">Jan 23</td>
-    <td class="tg-buh4">Pipelining</td>
+    <td class="tg-buh4">Memory Hierarchy</td>
     <td class="tg-buh4"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Jan 28</td>
-    <td class="tg-0lax">Memory Hierarchy</td>
+    <td class="tg-0lax">Address Translation and Protection</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-buh4">Jan 30</td>
-    <td class="tg-buh4">Memory Hierarchy</td>
-    <td class="tg-buh4"><a href="../assignment1/">Assignment 1</a> Due <br> Project Proposals Due</td>
+    <td class="tg-buh4">Virtual Memory</td>
+    <td class="tg-buh4">Project Proposals Due</td>
   </tr>
   <tr>
     <td class="tg-0lax">Feb 4</td>
-    <td class="tg-0lax">Memory Hierarchy</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Pipelining</td>
+    <td class="tg-0lax"><!-- <a href="../assignment1/"> -->Assignment 1<!-- </a> --> Due <br></td>
   </tr>
   <tr>
     <td class="tg-buh4">Feb 6</td>
-    <td class="tg-buh4">Address Translation and Protection</td>
+    <td class="tg-buh4">Pipelining</td>
     <td class="tg-buh4"></td>
   </tr>
   <tr>
@@ -167,7 +167,7 @@ These lectures have been developed in parts by Professors Asanovic, Arvind, Aust
   </tr>
   <tr>
     <td class="tg-0lax">Feb 18</td>
-    <td class="tg-0lax">Virtual Memory</td>
+    <td class="tg-0lax">Pipelining</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
