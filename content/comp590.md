@@ -148,7 +148,7 @@ These lectures have been developed in parts by Professors Asanovic, Arvind, Aust
   <tr>
     <td class="tg-0lax">Feb 4</td>
     <td class="tg-0lax">Pipelining</td>
-    <td class="tg-0lax"><!-- <a href="../assignment1/"> -->Assignment 1<!-- </a> --> Due <br></td>
+    <td class="tg-0lax"><a href="../assignment1/">Assignment 1</a> Due <br></td>
   </tr>
   <tr>
     <td class="tg-buh4">Feb 6</td>
