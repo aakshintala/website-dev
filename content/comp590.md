@@ -66,11 +66,10 @@ This is a __best-effort__ service and should not replace lecture attendance. If
 
 ## Key Dates
 
-*   Assignment 1 due: __4th Feb 2020 (before class)__
+*   Assignment 1 due: __6th Feb 2020 (before class)__
 *   Project Proposal due: __30th Jan 2020 (before class)__
 *   Assignment 2 due: __27th Feb 2020 (before class)__
-*   Assignment 3 due: __26th Mar 2020 (before class)__
-*   Assignment 4 due: __23th Apr 2020 (before class)__
+*   Assignment 3 due: __31st Mar 2020 (before class)__
 *   Project due: __4th May 2020 (before the exam)__
 *   Final exam: __4th May 2020 12:00 P.M.__
 
@@ -81,9 +80,8 @@ Grading will be on a point system. Obtaining a total of 100 points guarantees th
 *   Assignment 1 – 15 (Determining cache size and timing)
 *   Assignment 2 – 15 (Profiling and tuning using perf and hardware counters)
 *   Assignment 3 – 15 (Tuning a GPU program)
-*   Assignment 4 – 15 (TBD)
-*   Final Exam - 30
-*   Project – 40
+*   Final Exam - 40
+*   Project – 80
 *   Participation – 10
 
 ## Attendance and Participation
@@ -127,7 +125,7 @@ These lectures have been developed in parts by Professors Asanovic, Arvind, Aust
   </tr>
   <tr>
     <td class="tg-0lax">Jan 21</td>
-    <td class="tg-0lax">Memory Hierarchy</td>
+    <td class="tg-0lax">Memory Hierarchy<a href="../slides/L4-memory-hierarchy-and-caches.ppsx">PPT</a> <a href="../slides/L4-memory-hierarchy-and-caches.pdf">PDF</a></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
@@ -143,17 +141,17 @@ These lectures have been developed in parts by Professors Asanovic, Arvind, Aust
   <tr>
     <td class="tg-buh4">Jan 30</td>
     <td class="tg-buh4">Virtual Memory</td>
-    <td class="tg-buh4">Project Proposals Due</td>
+    <td class="tg-buh4"><a href="../projects/">Project Proposals</a> Due</td>
   </tr>
   <tr>
     <td class="tg-0lax">Feb 4</td>
     <td class="tg-0lax">Pipelining</td>
-    <td class="tg-0lax"><a href="../assignment1/">Assignment 1</a> Due <br></td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-buh4">Feb 6</td>
     <td class="tg-buh4">Pipelining</td>
-    <td class="tg-buh4"></td>
+    <td class="tg-buh4"><a href="../assignment1/">Assignment 1</a> Due </td>
   </tr>
   <tr>
     <td class="tg-0lax">Feb 11</td>
@@ -213,7 +211,7 @@ These lectures have been developed in parts by Professors Asanovic, Arvind, Aust
   <tr>
     <td class="tg-buh4">Mar 19</td>
     <td class="tg-buh4">GPUs</td>
-    <td class="tg-buh4"></td>
+    <td class="tg-buh4">Project Milestone Report Due</td>
   </tr>
   <tr>
     <td class="tg-0lax">Mar 24</td>
@@ -223,12 +221,12 @@ These lectures have been developed in parts by Professors Asanovic, Arvind, Aust
   <tr>
     <td class="tg-buh4">Mar 26</td>
     <td class="tg-buh4">Synchronization and Memory Consistency Models</td>
-    <td class="tg-buh4">Assignment 3 Due</td>
+    <td class="tg-buh4"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Mar 31</td>
     <td class="tg-0lax">Synchronization Primitives</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Assignment 3 Due</td>
   </tr>
   <tr>
     <td class="tg-buh4">Apr 2</td>
@@ -263,7 +261,7 @@ These lectures have been developed in parts by Professors Asanovic, Arvind, Aust
   <tr>
     <td class="tg-buh4">Apr 23</td>
     <td class="tg-buh4">Last Day of classes (Course Review + Wrap)</td>
-    <td class="tg-buh4">Assignment 4 Due</td>
+    <td class="tg-buh4"></td>
   </tr>
   <tr>
     <td class="tg-0lax">May 4</td>
