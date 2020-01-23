@@ -141,7 +141,7 @@ These lectures have been developed in parts by Professors Asanovic, Arvind, Aust
   <tr>
     <td class="tg-buh4">Jan 30</td>
     <td class="tg-buh4">Virtual Memory</td>
-    <td class="tg-buh4"><a href="../projects/">Project Proposals</a> Due</td>
+    <td class="tg-buh4"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Feb 4</td>
@@ -151,7 +151,7 @@ These lectures have been developed in parts by Professors Asanovic, Arvind, Aust
   <tr>
     <td class="tg-buh4">Feb 6</td>
     <td class="tg-buh4">Pipelining</td>
-    <td class="tg-buh4"><a href="../assignment1/">Assignment 1</a> Due </td>
+    <td class="tg-buh4"><a href="../assignment1/">Assignment 1</a> Due <br> <a href="../projects/">Project Proposals</a> Due</td>
   </tr>
   <tr>
     <td class="tg-0lax">Feb 11</td>
