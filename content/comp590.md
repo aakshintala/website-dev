@@ -135,7 +135,7 @@ These lectures have been developed in parts by Professors Asanovic, Arvind, Aust
   </tr>
   <tr>
     <td class="tg-0lax">Jan 28</td>
-    <td class="tg-0lax">Address Translation and Protection</td>
+    <td class="tg-0lax">DRAM <a href="../slides/L5-memory-dram.ppsx">PPT</a> <a href="../slides/L5-memory-dram.pdf">PDF</a></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
@@ -151,17 +151,17 @@ These lectures have been developed in parts by Professors Asanovic, Arvind, Aust
   <tr>
     <td class="tg-buh4">Feb 6</td>
     <td class="tg-buh4">Pipelining</td>
-    <td class="tg-buh4"><a href="../assignment1/">Assignment 1</a> Due <br> <a href="../projects/">Project Proposals</a> Due</td>
+    <td class="tg-buh4"><a href="../assignment1/">Assignment 1</a> Due</td>
   </tr>
   <tr>
     <td class="tg-0lax">Feb 11</td>
-    <td class="tg-0lax">Spring Break - Holiday - No class</td>
+    <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-buh4">Feb 13</td>
-    <td class="tg-buh4">Spring Break - Holiday - No class</td>
     <td class="tg-buh4"></td>
+    <td class="tg-buh4"><a href="../projects/">Project Proposals</a> Due</td>
   </tr>
   <tr>
     <td class="tg-0lax">Feb 18</td>
