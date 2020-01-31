@@ -8,16 +8,31 @@ toc: false
 
 The project counts for the largest part of your grade (80 points).
 You have 3 options for the project:
-1. Build a core and cache simulator that can execute simple RISC-V programs (testcases will be provided).
-    * More to come.
 
-2. Contribute to a relevant open-source systems project. You are responsible for contacting the maintainers of these projects, working with them to arrive at the scope of the project (you must be able to finish it in three months), and figuring out the timeline and deliverables. Think of this as an exercise in being a systems software engineer. Your deliverables must include (as appropriate): specification, documentation, tests, your changeset, and any other supporting material requested by the project's processes. Please include all pertinent emails exchanged with the maintainers of the project in your project proposal, along with a summary of your project, the deliverables and the project timeline. You will be graded on a case-by-case basis, with the primary criteria being delivery of the agreed upon changes to the project (with concessions for unexpected setbacks). Please discuss the project and scope with me before you submit your proposal.
+#### Option 1: Design and implement a RISC-V-compatible processor simulator
+At the minimum, your processor must be able to execute simple RISC-V (RV64IM) programs (pre-compiled testcases and the RISC-V tool-chain will be provided), via a 5-stage pipeline, multiple functional units with varying latencies, and direct mapped instruction and data caches. Further details [here](../simulator/).
+* 5+ stage pipeline + direct-mapped caches (50 pts)
+* 5+ stage pipeline + set-associative caches (60 pts)
+* Super-scalar 5-stage pipeline, set-associative cache (70 pts)
+* Super-Scalar, Out-of-order, Set-Associative Caches (80 pts)
+* Extra Credit (Can add up to > 80 points):
+    * Multi-cycle divider and pipelined multiplier on top of any of the above (+5 pts).
+    * Any of the above + TLBs (+10 points)
+    * Any of the above + Branch Prediction (+10 points)
+    * Any of the above + Speculative Execution (+10 pts)
+    * Any of the above + SMT (+20 extra pts)
+
+
+#### Option 2: Contribute to a relevant open-source systems project.
+You are responsible for contacting the maintainers of these projects, working with them to arrive at the scope of the project (you must be able to finish it in three months), and figuring out the timeline and deliverables. Think of this as an exercise in being a systems software engineer. Your deliverables must include (as appropriate): specification, documentation, tests, your changeset, and any other supporting material requested by the project's processes. Please include all pertinent emails exchanged with the maintainers of the project in your project proposal, along with a summary of your project, the deliverables and the project timeline. You will be graded on a case-by-case basis, with the primary criteria being delivery of the agreed upon changes to the project (with concessions for unexpected setbacks). Please discuss the project and scope with me before you submit your proposal.
 Non-exhaustive list of projects to consider:
-    * [LLVM](https://llvm.org/OpenProjects.html)
-    * [QEMU](https://wiki.qemu.org/Contribute)
-    * [KVM](https://www.linux-kvm.org/page/TODO)
-    * [Chisel](https://www.chisel-lang.org/chisel3/faqs.html#how-can-i-contribute-to-chisel)
-3. Propose your own project: this could be a research project (I have some ideas depending on your interestes) or a fun little hardware project (preferably involving some processor design (e.g., design a custom RISC-V processor, that is specialized for a particular domain and deploy it on an [FPGA](https://joelw.id.au/FPGA/CheapFPGADevelopmentBoards)).
+* [LLVM](https://llvm.org/OpenProjects.html)
+* [QEMU](https://wiki.qemu.org/Contribute)
+* [KVM](https://www.linux-kvm.org/page/TODO)
+* [Chisel](https://www.chisel-lang.org/chisel3/faqs.html#how-can-i-contribute-to-chisel)
+
+#### Option 3. Propose your own project.
+This could be a research project (I have some ideas depending on your interests) or a fun little hardware project (preferably involving some processor design (e.g., design a custom RISC-V processor, that is specialized for a particular domain and deploy it on an [FPGA](https://joelw.id.au/FPGA/CheapFPGADevelopmentBoards)).
 
 
 ## Project Proposal Guidelines:

@@ -59,15 +59,11 @@ The course will be taught in an interactive lecture style. Although there are sl
 
 Students are expected to complete several programming assignments.
 
-<!-- ## Lecture Recording
-
-Lectures will be recorded and be made available to the students in the class. These recordings are intended to help students review the material after attending lectures, and are not a substitute for attending lectures in person.
-This is a __best-effort__ service and should not replace lecture attendance. If lecture recording substantially harms attendance, it will be discontinued. -->
 
 ## Key Dates
 
 *   Assignment 1 due: __6th Feb 2020 (before class)__
-*   Project Proposal due: __30th Jan 2020 (before class)__
+*   [Project Proposal](../projects/) due: __13th Feb 2020 (before class)__
 *   Assignment 2 due: __27th Feb 2020 (before class)__
 *   Assignment 3 due: __31st Mar 2020 (before class)__
 *   Project due: __4th May 2020 (before the exam)__
@@ -125,22 +121,22 @@ These lectures have been developed in parts by Professors Asanovic, Arvind, Aust
   </tr>
   <tr>
     <td class="tg-0lax">Jan 21</td>
-    <td class="tg-0lax">Memory Hierarchy<a href="../slides/L4-memory-hierarchy-and-caches.ppsx">PPT</a> <a href="../slides/L4-memory-hierarchy-and-caches.pdf">PDF</a></td>
+    <td class="tg-0lax">Caches<a href="../slides/L4-memory-hierarchy-and-caches.ppsx">PPT</a> <a href="../slides/L4-memory-hierarchy-and-caches.pdf">PDF</a></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-buh4">Jan 23</td>
-    <td class="tg-buh4">Memory Hierarchy</td>
+    <td class="tg-buh4">Caches</td>
     <td class="tg-buh4"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Jan 28</td>
-    <td class="tg-0lax">DRAM <a href="../slides/L5-memory-dram.ppsx">PPT</a> <a href="../slides/L5-memory-dram.pdf">PDF</a></td>
+    <td class="tg-0lax">Caches</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-buh4">Jan 30</td>
-    <td class="tg-buh4">Virtual Memory</td>
+    <td class="tg-buh4">DRAM <a href="../slides/L5-memory-dram.ppsx">PPT</a> <a href="../slides/L5-memory-dram.pdf">PDF</a></td>
     <td class="tg-buh4"></td>
   </tr>
   <tr>
