@@ -147,7 +147,7 @@ These lectures have been developed in parts by Professors Asanovic, Arvind, Aust
   <tr>
     <td class="tg-buh4">Feb 6</td>
     <td class="tg-buh4">Pipelining</td>
-    <td class="tg-buh4"><a href="../assignment1/">Assignment 1</a> Due</td>
+    <td class="tg-buh4"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Feb 11</td>
@@ -157,101 +157,101 @@ These lectures have been developed in parts by Professors Asanovic, Arvind, Aust
   <tr>
     <td class="tg-buh4">Feb 13</td>
     <td class="tg-buh4"></td>
-    <td class="tg-buh4"><a href="../projects/">Project Proposals</a> Due</td>
+    <td class="tg-buh4"><a href="../assignment1/">Assignment 1</a> Due <br> <a href="../projects/">Project Proposals</a> Due</td>
   </tr>
   <tr>
     <td class="tg-0lax">Feb 18</td>
-    <td class="tg-0lax">Pipelining</td>
+    <td class="tg-0lax"><!-- Pipelining --></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-buh4">Feb 20</td>
-    <td class="tg-buh4">Super-scalar Processors</td>
+    <td class="tg-buh4"><!-- Super-scalar Processors --></td>
     <td class="tg-buh4"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Feb 25</td>
-    <td class="tg-0lax">Complex pipelines, out-of-order issue, register renaming</td>
+    <td class="tg-0lax"><!-- Complex pipelines, out-of-order issue, register renaming --></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-buh4">Feb 27</td>
-    <td class="tg-buh4">Out-of-order execution</td>
+    <td class="tg-buh4"><!-- Out-of-order execution --></td>
     <td class="tg-buh4">Assignment 2 Due</td>
   </tr>
   <tr>
     <td class="tg-0lax">Mar 3</td>
-    <td class="tg-0lax">Branch Prediction and Advanced Out-of-Order Superscalars</td>
+    <td class="tg-0lax"><!-- Branch Prediction and Advanced Out-of-Order Superscalars --></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-buh4">Mar 5</td>
-    <td class="tg-buh4">Advanced Superscalars and VLIW</td>
+    <td class="tg-buh4"><!-- Advanced Superscalars and VLIW --></td>
     <td class="tg-buh4"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Mar 10</td>
-    <td class="tg-0lax">Multithreading</td>
+    <td class="tg-0lax">SPRING BREAK<!-- Multithreading --></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-buh4">Mar 12</td>
-    <td class="tg-buh4">Vectors</td>
+    <td class="tg-buh4">SPRING BREAK<!-- Vectors --></td>
     <td class="tg-buh4"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Mar 17</td>
-    <td class="tg-0lax">Vectors</td>
+    <td class="tg-0lax"><!-- Vectors --></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-buh4">Mar 19</td>
-    <td class="tg-buh4">GPUs</td>
+    <td class="tg-buh4"><!-- GPUs --></td>
     <td class="tg-buh4">Project Milestone Report Due</td>
   </tr>
   <tr>
     <td class="tg-0lax">Mar 24</td>
-    <td class="tg-0lax">Cache Coherence</td>
+    <td class="tg-0lax"><!-- Cache Coherence --></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-buh4">Mar 26</td>
-    <td class="tg-buh4">Synchronization and Memory Consistency Models</td>
+    <td class="tg-buh4"><!-- Synchronization and Memory Consistency Models --></td>
     <td class="tg-buh4"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Mar 31</td>
-    <td class="tg-0lax">Synchronization Primitives</td>
+    <td class="tg-0lax"><!-- Synchronization Primitives --></td>
     <td class="tg-0lax">Assignment 3 Due</td>
   </tr>
   <tr>
     <td class="tg-buh4">Apr 2</td>
-    <td class="tg-buh4">I/O and Warehouse-Scale Computing</td>
+    <td class="tg-buh4"><!-- I/O and Warehouse-Scale Computing --></td>
     <td class="tg-buh4"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Apr 7</td>
-    <td class="tg-0lax">Virtual Machines</td>
+    <td class="tg-0lax"><!-- Virtual Machines --></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-buh4">Apr 9</td>
-    <td class="tg-buh4">Virtual Machines</td>
+    <td class="tg-buh4"><!-- Virtual Machines --></td>
     <td class="tg-buh4"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Apr 14</td>
-    <td class="tg-0lax">Domain-Specific Architectures</td>
+    <td class="tg-0lax"><!-- Domain-Specific Architectures --></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-buh4">Apr 16</td>
-    <td class="tg-buh4">Domain-Specific Architectures</td>
+    <td class="tg-buh4">NO CLASS - AMOGH TRAVELING<!-- Domain-Specific Architectures --></td>
     <td class="tg-buh4"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Apr 21</td>
-    <td class="tg-0lax">Domain-Specific Architectures</td>
+    <td class="tg-0lax"><!-- Domain-Specific Architectures --></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
@@ -261,7 +261,7 @@ These lectures have been developed in parts by Professors Asanovic, Arvind, Aust
   </tr>
   <tr>
     <td class="tg-0lax">May 4</td>
-    <td class="tg-0lax">Final Exam 12:00 pm</td>
+    <td class="tg-0lax">Final Exam 12:00 pm SN011</td>
     <td class="tg-0lax">Projects Due (before exam)</td>
   </tr>
   <tr>
