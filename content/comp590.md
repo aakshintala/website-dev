@@ -151,7 +151,7 @@ These lectures have been developed in parts by Professors Asanovic, Arvind, Aust
   </tr>
   <tr>
     <td class="tg-0lax">Feb 11</td>
-    <td class="tg-0lax">SystemVerilog tutorial <a href="../slides/L7-SystemVerilog.pptx">PPT</a></td>
+    <td class="tg-0lax">SystemVerilog tutorial <a href="../slides/L7-systemverilog.pptx">PPT</a></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>

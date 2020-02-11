@@ -107,10 +107,10 @@ A multi-cycle divider accepts a new operation when the "start" signal is given a
 ----
 
 ## Getting the Skeleton Code
-You can clone the code from [to be updated]. You should implement your processor by modifying the existing SystemVerilog files and adding new ones. _top.sv_ is the top-level SystemVerilog file and _Core.sv_ is your processor core. The README file contains more detailed instructions.
+You can clone the code from [GitHub](https://github.com/aakshintala/comp590-154Project). You should implement your processor by modifying the existing SystemVerilog files and adding new ones. _top.sv_ is the top-level SystemVerilog file and _Core.sv_ is your processor core. The README file contains more detailed instructions.
 
 __Project Report__
-In addition to submitting your code (using "make submit"), you should also submit a short report (ideally, no more than 3 pages). It should provide a high-level overview of your processor pipeline, the implemented features and details of each pipeline stage. In particular:
+In addition to submitting your code (via a private GitHub/BitBucket repository), you should also submit a short report (ideally, no more than 3 pages). It should provide a high-level overview of your processor pipeline, the implemented features and details of each pipeline stage. In particular:
 * General flavor of your processor: scalar or super-scalar, out-of-order or in-order, etc.
 * Instruction and data cache details
 * How your caches connect to the main memory (e.g., how you arbitrate between them)
