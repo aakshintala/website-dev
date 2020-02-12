@@ -157,12 +157,12 @@ These lectures have been developed in parts by Professors Asanovic, Arvind, Aust
   <tr>
     <td class="tg-buh4">Feb 13</td>
     <td class="tg-buh4"></td>
-    <td class="tg-buh4"><a href="../assignment1/">Assignment 1</a> Due <br> <a href="../projects/">Project Proposals</a> Due</td>
+    <td class="tg-buh4"><a href="../assignment1/">Assignment 1</a> Due</td>
   </tr>
   <tr>
     <td class="tg-0lax">Feb 18</td>
     <td class="tg-0lax"><!-- Pipelining --></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><a href="../projects/">Project Proposals</a> Due</td>
   </tr>
   <tr>
     <td class="tg-buh4">Feb 20</td>
