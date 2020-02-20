@@ -1,9 +1,9 @@
 ---
 class: "blog"
-draft: false
+draft: true
 title: ""
 date: 2020-02-06T16:55:45-05:00
-slug:
+slug: "work-first-phd-later"
 ---
 I’ve been thinking about my graduate school experience for a while now and I feel like I've come to a very different conclusion from the advice I typically got (or at least what I listened to) when I considered graduate school. This is my second contribution to the genre of grad school advice (the other being aimed at MS students; this one is primarily aimed at people considering a PhD). I'm probably going to fail to convince most of my readers in the same way that most advice I read didn't really resonate with me (the problem with advice is that the giver is drawing from their experiences, and the receiver has no understanding of the giver's frame of reference.) This is certainly how I know feel about most of the advice I read when I started --- the authors certainly meant well, and even said the right things, but the wide chasm in experience between us meant that I didn't really understand what they meant.
 
@@ -23,3 +23,9 @@ Allow me to explain why I believe most undergraduates considering a PhD should g
 		* I started the PhD as a 23 year old who didn't understand the value of time. I didn't value my own time, nor did I value others'. I didn't understand the investment that society was making in me by allowing me to be a graduate student (effectively removing myself from the productive labor force). I understood that the taxpayer was subsidizing me because they saw it as an investment in the future, but I didn't understand what was required of me. Maybe more importantly, I didn't understand the value of my own time, of the time that I was investing into this journey. I didn't think to maximize my investment. I've had an amazing time in grad school; don't get me wrong. I just think the outcome may have been the same whether
         * Understanding yourself --- if you don't know how youI didn't know if I was a builder, a maintainer, a tinkerer, a measure-and-optimize kind of engineer, a person who likes to explore lots of new areas and do small amounts of work in each, etc.)
         * I think most graduate students come in with the expectation that they are outliers. This is true for the most part, the problem is the population they are considering. Most PhD students are outliers in the general populace, but what that means is everyone around you in grad school is an outlier, as well (this isn't a monopoly of academia, of course). This can be a very volatile social situation --- most people are either in denial (everyone thinks they are the best; on average, its safe to assume you are not the best anywhere), or anxiety-ridden (imposter syndrome, feelings of inadequacy, etc.), or in so many cases both.
+
+Here’s the dirty little secret that most people only realize when they’re at the end of the degree (these numbers are anecdotal, but from all of my own discussions with others seem to hold up):
+95% of PhD students end up in industry.
+80% of them end up doing things that are in no way related to anything they did during their PhD (usually the PhD has little to no bearing on their job); another 10% work on things adjacent to the stuff they did during the PhD, and use the skills they learned during the PhD; of the remaining 10% who get to actively work on the stuff they did during their PhD, only a small fraction of them end up actually having a big impact.
+
+What does that have to do with you? Realize that completing your PhD is not something that gives you any sort of appreciable leg up in the average case. If you’re suffering, and your advisor can’t be reasoned with, leave already. That is easier said than done in a lot of cases (especially for international students who already have a master’s degree). If you’re in the latter case, figure out what your plans are post-graduation, make them known to all the stakeholders and make a beeline for that path.

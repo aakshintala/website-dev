@@ -156,17 +156,17 @@ These lectures have been developed in parts by Professors Asanovic, Arvind, Aust
   </tr>
   <tr>
     <td class="tg-buh4">Feb 13</td>
-    <td class="tg-buh4"></td>
+    <td class="tg-buh4">Pipelined Execution - White board</td>
     <td class="tg-buh4"><a href="../assignment1/">Assignment 1</a> Due</td>
   </tr>
   <tr>
     <td class="tg-0lax">Feb 18</td>
-    <td class="tg-0lax"><!-- Pipelining --></td>
+    <td class="tg-0lax">OoO Execution - White board</td>
     <td class="tg-0lax"><a href="../projects/">Project Proposals</a> Due</td>
   </tr>
   <tr>
     <td class="tg-buh4">Feb 20</td>
-    <td class="tg-buh4"><!-- Super-scalar Processors --></td>
+    <td class="tg-buh4">OoO & Register Rename <a href="../slides/L8-ooo-and-rename.pptx">PPT</a> <a href="../slides/L8-ooo-and-rename.pdf">PDF</a></td>
     <td class="tg-buh4"></td>
   </tr>
   <tr>
