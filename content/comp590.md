@@ -171,7 +171,7 @@ These lectures have been developed in parts by Professors Asanovic, Arvind, Aust
   </tr>
   <tr>
     <td class="tg-0lax">Feb 25</td>
-    <td class="tg-0lax"><!-- Complex pipelines, out-of-order issue, register renaming --></td>
+    <td class="tg-0lax">Speculation and traps in OoO <a href="L9-ooo-speculation.pptx">PPT</a> <a href="L9-ooo-speculation.pdf">PDF</a></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
