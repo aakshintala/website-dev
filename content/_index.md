@@ -8,7 +8,7 @@ draft: false
 ---
 
 ---
-__I'm looking for industrial positions (research and non-research), starting October 2020.__
+__I'm looking for industrial positions (research and non-research), starting October 2020. I'm primarily interested in positions that deal with evolving software systems for specialized compute accelerators. My dissertation is on Virtualization of GPUs and other API-controlled accelerators.__
 
 I am a final year Ph.D. student at the [Department of Computer Science, UNC Chapel Hill](http://cs.unc.edu/). I'm extremely fortunate to be advised by a number of amazing people:
 [Don Porter](https://cs.unc.edu/~porter) (who leads the [OSCAR lab](http://oscarlab.github.io) at UNC), [Chris Rossbach](http://www.cs.utexas.edu/~rossbach/) (at UT Austin and [VMware Research Group](https://research.vmware.com/)), and [Michael Ferdman](http://compas.cs.stonybrook.edu/~mferdman/) (at Stony Brook University).
@@ -18,8 +18,9 @@ My research interests lie at the intersection of System Software (OS, File Syste
 During the course of my PhD, I
 * spent the first 2 years of my Ph.D. as the benchmark czar (performance engineering) for the [BetrFS project](http://www.betrfs.org).
 * studied the [distribution of x86 instructions](http://x86instructionpop.com/) in all the C/C++ binaries from the Ubuntu repositories, in the hope of drawing interesting insights to help design a subset ISA,
-* looked at the problem of building [first-class abstractions for programmable accelerators](https://drive.google.com/file/d/1XNnoErAb5h9FaRoKvfUgypjYvLwja5J9/view?usp=sharing),
+* built an [LLVM backend for a GPU vISA (TGSI)](https://github.com/aakshintala/llvm)
 * co-designed an automate-able low-overhead virtualization scheme for [specialized accelerators](https://aakshintala.com/papers/ava-hotos19.pdf),
+* thought about [first-class abstractions for programmable accelerators](https://drive.google.com/file/d/1XNnoErAb5h9FaRoKvfUgypjYvLwja5J9/view?usp=sharing),
 * and in general [had fun with heterogeneous compute](https://github.com/aakshintala/darknet).
 
 I'm involved with [CSRTales](https://medium.com/csr-tales), an effort spear-headed by [Vijay Chidambaram](https://www.cs.utexas.edu/~vijay/) to document and share the often-forgotten human-side of CS research.
