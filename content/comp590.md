@@ -176,12 +176,12 @@ These lectures have been developed in parts by Professors Asanovic, Arvind, Aust
   </tr>
   <tr>
     <td class="tg-buh4">Feb 27</td>
-    <td class="tg-buh4"><!-- Out-of-order execution --></td>
+    <td class="tg-buh4">Speculation and traps in OoO <a href="L9-ooo-speculation.pptx">PPT</a> <a href="L9-ooo-speculation.pdf">PDF</a></td>
     <td class="tg-buh4">Assignment 2 Due</td>
   </tr>
   <tr>
     <td class="tg-0lax">Mar 3</td>
-    <td class="tg-0lax"><!-- Branch Prediction and Advanced Out-of-Order Superscalars --></td>
+    <td class="tg-0lax">Out of Order Memory Access <a href="L10-ooo-memory.pptx">PPT</a> <a href="L10-ooo-memory.pdf">PDF</a> </td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
