@@ -64,8 +64,7 @@ Students are expected to complete several programming assignments.
 
 *   Assignment 1 due: __6th Feb 2020 (before class)__
 *   [Project Proposal](../projects/) due: __13th Feb 2020 (before class)__
-*   Assignment 2 due: __27th Feb 2020 (before class)__
-*   Assignment 3 due: __31st Mar 2020 (before class)__
+*   Assignment 2 due: __31st Mar 2020 (before class)__
 *   Project due: __4th May 2020 (before the exam)__
 *   Final exam: __4th May 2020 12:00 P.M.__
 
@@ -74,9 +73,8 @@ Students are expected to complete several programming assignments.
 Grading will be on a point system. Obtaining a total of 100 points guarantees that you will receive an ‘A’ grade in the course. All scores below 100 points will be graded on a curve.
 
 *   Assignment 1 – 15 (Determining cache size and timing)
-*   Assignment 2 – 15 (Profiling and tuning using perf and hardware counters)
-*   Assignment 3 – 15 (Tuning a GPU program)
-*   Final Exam - 40
+*   Assignment 2 – 30 (Profiling and tuning using perf and hardware counters)
+*   Final Exam - 50
 *   Project – 80
 *   Participation – 10
 
@@ -171,22 +169,22 @@ These lectures have been developed in parts by Professors Asanovic, Arvind, Aust
   </tr>
   <tr>
     <td class="tg-0lax">Feb 25</td>
-    <td class="tg-0lax">Speculation and traps in OoO <a href="L9-ooo-speculation.pptx">PPT</a> <a href="L9-ooo-speculation.pdf">PDF</a></td>
+    <td class="tg-0lax">Speculation and traps in OoO <a href="../slides/L9-ooo-speculation.pptx">PPT</a> <a href="../slides/L9-ooo-speculation.pdf">PDF</a></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-buh4">Feb 27</td>
-    <td class="tg-buh4">Speculation and traps in OoO <a href="L9-ooo-speculation.pptx">PPT</a> <a href="L9-ooo-speculation.pdf">PDF</a></td>
+    <td class="tg-buh4">Speculation and traps in OoO <a href="../slides/L9-ooo-speculation.pptx">PPT</a> <a href="../slides/L9-ooo-speculation.pdf">PDF</a></td>
     <td class="tg-buh4">Assignment 2 Due</td>
   </tr>
   <tr>
     <td class="tg-0lax">Mar 3</td>
-    <td class="tg-0lax">Out of Order Memory Access <a href="L10-ooo-memory.pptx">PPT</a> <a href="L10-ooo-memory.pdf">PDF</a> </td>
+    <td class="tg-0lax">Out of Order Memory Access <a href="../slides/L10-ooo-memory.pptx">PPT</a> <a href="../slides/L10-ooo-memory.pdf">PDF</a> </td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-buh4">Mar 5</td>
-    <td class="tg-buh4"><!-- Advanced Superscalars and VLIW --></td>
+    <td class="tg-buh4">Out of Order Memory Access --- continued</td>
     <td class="tg-buh4"></td>
   </tr>
   <tr>
@@ -201,17 +199,17 @@ These lectures have been developed in parts by Professors Asanovic, Arvind, Aust
   </tr>
   <tr>
     <td class="tg-0lax">Mar 17</td>
-    <td class="tg-0lax"><!-- Vectors --></td>
+    <td class="tg-0lax">Branch Prediction</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-buh4">Mar 19</td>
-    <td class="tg-buh4"><!-- GPUs --></td>
+    <td class="tg-buh4">Branch Prediction</td>
     <td class="tg-buh4">Project Milestone Report Due</td>
   </tr>
   <tr>
     <td class="tg-0lax">Mar 24</td>
-    <td class="tg-0lax"><!-- Cache Coherence --></td>
+    <td class="tg-0lax">Prefetching</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
