@@ -64,7 +64,7 @@ Students are expected to complete several programming assignments.
 
 *   Assignment 1 due: __6th Feb 2020 (before class)__
 *   [Project Proposal](../projects/) due: __13th Feb 2020 (before class)__
-*   Assignment 2 due: __31st Mar 2020 (before class)__
+*   Assignment 2 due: __23rd April 2020 (before class)__
 *   Project due: __4th May 2020 (before the exam)__
 *   Final exam: __4th May 2020 12:00 P.M.__
 
@@ -205,7 +205,7 @@ These lectures have been developed in parts by Professors Asanovic, Arvind, Aust
   <tr>
     <td class="tg-buh4">Mar 19</td>
     <td class="tg-buh4">Branch Prediction</td>
-    <td class="tg-buh4">Project Milestone Report Due</td>
+    <td class="tg-buh4"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Mar 24</td>
@@ -215,7 +215,7 @@ These lectures have been developed in parts by Professors Asanovic, Arvind, Aust
   <tr>
     <td class="tg-buh4">Mar 26</td>
     <td class="tg-buh4"><!-- Synchronization and Memory Consistency Models --></td>
-    <td class="tg-buh4"></td>
+    <td class="tg-buh4">Project Milestone Report Due</td>
   </tr>
   <tr>
     <td class="tg-0lax">Mar 31</td>
