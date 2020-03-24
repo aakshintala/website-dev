@@ -199,28 +199,28 @@ These lectures have been developed in parts by Professors Asanovic, Arvind, Aust
   </tr>
   <tr>
     <td class="tg-0lax">Mar 17</td>
-    <td class="tg-0lax">Branch Prediction</td>
+    <td class="tg-0lax">Extended Break</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-buh4">Mar 19</td>
-    <td class="tg-buh4">Branch Prediction</td>
+    <td class="tg-buh4">Extended Break</td>
     <td class="tg-buh4"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Mar 24</td>
-    <td class="tg-0lax">Prefetching</td>
+    <td class="tg-0lax">Branch Prediction <a href="../slides/L11-bpred.pptx">PPT</a> <a href="../slides/L11-bpred.pdf">PDF</a></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-buh4">Mar 26</td>
     <td class="tg-buh4"><!-- Synchronization and Memory Consistency Models --></td>
-    <td class="tg-buh4">Project Milestone Report Due</td>
+    <td class="tg-buh4"><s>Project Milestone Report Due</s></td>
   </tr>
   <tr>
     <td class="tg-0lax">Mar 31</td>
     <td class="tg-0lax"><!-- Synchronization Primitives --></td>
-    <td class="tg-0lax">Assignment 3 Due</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-buh4">Apr 2</td>
@@ -244,7 +244,7 @@ These lectures have been developed in parts by Professors Asanovic, Arvind, Aust
   </tr>
   <tr>
     <td class="tg-buh4">Apr 16</td>
-    <td class="tg-buh4">NO CLASS - AMOGH TRAVELING<!-- Domain-Specific Architectures --></td>
+    <td class="tg-buh4"><!-- Domain-Specific Architectures --></td>
     <td class="tg-buh4"></td>
   </tr>
   <tr>
