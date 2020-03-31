@@ -64,7 +64,7 @@ Students are expected to complete several programming assignments.
 
 *   Assignment 1 due: __6th Feb 2020 (before class)__
 *   [Project Proposal](../projects/) due: __13th Feb 2020 (before class)__
-*   Assignment 2 due: __23rd April 2020 (before class)__
+*   Assignment 2 due: __4th May 2020 (before the exam)__
 *   Project due: __4th May 2020 (before the exam)__
 *   Final exam: __4th May 2020 12:00 P.M.__
 
@@ -214,12 +214,12 @@ These lectures have been developed in parts by Professors Asanovic, Arvind, Aust
   </tr>
   <tr>
     <td class="tg-buh4">Mar 26</td>
-    <td class="tg-buh4"><!-- Synchronization and Memory Consistency Models --></td>
-    <td class="tg-buh4"><s>Project Milestone Report Due</s></td>
+    <td class="tg-buh4">Branch Prediction --- Continued</td>
+    <td class="tg-buh4"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Mar 31</td>
-    <td class="tg-0lax"><!-- Synchronization Primitives --></td>
+    <td class="tg-0lax">Prefetching <a href="../slides/L12-prefetching.pptx">PPT</a> <a href="../slides/L12-prefetching.pdf">PDF</a></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
@@ -260,7 +260,7 @@ These lectures have been developed in parts by Professors Asanovic, Arvind, Aust
   <tr>
     <td class="tg-0lax">May 4</td>
     <td class="tg-0lax">Final Exam 12:00 pm SN011</td>
-    <td class="tg-0lax">Projects Due (before exam)</td>
+    <td class="tg-0lax">Assignment 2 & Project Due (before exam)</td>
   </tr>
   <tr>
     <td class="tg-buh4">May 10</td>
