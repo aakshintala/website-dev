@@ -224,12 +224,12 @@ These lectures have been developed in parts by Professors Asanovic, Arvind, Aust
   </tr>
   <tr>
     <td class="tg-buh4">Apr 2</td>
-    <td class="tg-buh4"><!-- I/O and Warehouse-Scale Computing --></td>
+    <td class="tg-buh4">Prefetching continued<!-- I/O and Warehouse-Scale Computing --></td>
     <td class="tg-buh4"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Apr 7</td>
-    <td class="tg-0lax"><!-- Virtual Machines --></td>
+    <td class="tg-0lax">Multi-{Socket,Core,Thread} <a href="../slides/L13-multi.pptx">PPT</a> <a href="../slides/L13-multi.pdf">PDF</a><!-- Virtual Machines --></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
