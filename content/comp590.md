@@ -234,7 +234,7 @@ These lectures have been developed in parts by Professors Asanovic, Arvind, Aust
   </tr>
   <tr>
     <td class="tg-buh4">Apr 9</td>
-    <td class="tg-buh4"><!-- Virtual Machines --></td>
+    <td class="tg-buh4">Coherence and Consistency <a href="../slides/L14-sharedmem.pptx">PPT</a> <a href="../slides/L14-sharedmem.pdf">PDF</a><!-- Virtual Machines --></td>
     <td class="tg-buh4"></td>
   </tr>
   <tr>
