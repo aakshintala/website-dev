@@ -239,22 +239,22 @@ These lectures have been developed in parts by Professors Asanovic, Arvind, Aust
   </tr>
   <tr>
     <td class="tg-0lax">Apr 14</td>
-    <td class="tg-0lax"><!-- Domain-Specific Architectures --></td>
+    <td class="tg-0lax">Data Parallel Architectures <a href="https://compas.cs.stonybrook.edu/~nhonarmand/courses/sp18/cse502/slides/15-dlp.pdf">PDF</a></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-buh4">Apr 16</td>
-    <td class="tg-buh4"><!-- Domain-Specific Architectures --></td>
+    <td class="tg-buh4">Class Cancelled</td>
     <td class="tg-buh4"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Apr 21</td>
-    <td class="tg-0lax"><!-- Domain-Specific Architectures --></td>
+    <td class="tg-0lax">Class Cancelled</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-buh4">Apr 23</td>
-    <td class="tg-buh4">Last Day of classes (Course Review + Wrap)</td>
+    <td class="tg-buh4">Class Cancelled</td>
     <td class="tg-buh4"></td>
   </tr>
   <tr>
