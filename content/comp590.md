@@ -244,17 +244,17 @@ These lectures have been developed in parts by Professors Asanovic, Arvind, Aust
   </tr>
   <tr>
     <td class="tg-buh4">Apr 16</td>
-    <td class="tg-buh4">Class Cancelled</td>
+    <td class="tg-buh4"><a href="https://www.youtube.com/watch?v=3LVeEjsn8Ts">Hennessy and Patterson Turing Award Lecture</a></td>
     <td class="tg-buh4"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Apr 21</td>
-    <td class="tg-0lax">Class Cancelled</td>
+    <td class="tg-0lax">In-class Review</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-buh4">Apr 23</td>
-    <td class="tg-buh4">Class Cancelled</td>
+    <td class="tg-buh4">Class Cancelled; Make up class on Apr 24 at same time. <a href="https://www.youtube.com/watch?v=fnd05AeeFN4">Bill Daly's lecture on Domain Specific Architectures</a></td>
     <td class="tg-buh4"></td>
   </tr>
   <tr>
