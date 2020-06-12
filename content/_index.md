@@ -3,12 +3,11 @@ title: "Amogh Akshintala"
 date: 2018-06-23T12:09:19-07:00
 tagline1: "PhD Candidate."
 tagline2: "Computer Scientist."
-picture: "images/dp.jpg"
+picture: "images/dp_modern.jpg"
 draft: false
 ---
 
 ---
-__I'm looking for industrial positions (research and non-research), starting October 2020. I'm primarily interested in positions that deal with evolving software systems for specialized compute accelerators. My dissertation is on Virtualization of GPUs and other API-controlled accelerators.__
 
 I am a final year Ph.D. student at the [Department of Computer Science, UNC Chapel Hill](http://cs.unc.edu/). I'm extremely fortunate to be advised by a number of amazing people:
 [Don Porter](https://cs.unc.edu/~porter) (who leads the [OSCAR lab](http://oscarlab.github.io) at UNC), [Chris Rossbach](http://www.cs.utexas.edu/~rossbach/) (at UT Austin and [VMware Research Group](https://research.vmware.com/)), and [Michael Ferdman](http://compas.cs.stonybrook.edu/~mferdman/) (at Stony Brook University).
