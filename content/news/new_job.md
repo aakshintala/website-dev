@@ -1,6 +1,6 @@
 +++
 title = "Joined Facebook"
-date = 2020-11-30T12:00:58-04:00
+date = 2020-11-30T11:00:58-04:00
 class = "news"
 draft = false
 short_desc = "Started at Facebook Seattle as a Research Scientist."
